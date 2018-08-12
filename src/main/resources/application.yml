@@ -1,0 +1,13 @@
+logging:
+  level:
+    root: INFO
+spring:
+  h2:
+    console:
+        enable: true
+  datasource:
+    url: jdbc:h2:file:~/test;
+    usename: sa
+    password:
+    drive-class-name: org.h2.Driver
+    data: classpath:data/author-h2.sql, classpath:data/post-h2.sql
