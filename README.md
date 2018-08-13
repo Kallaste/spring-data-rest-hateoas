@@ -1,6 +1,6 @@
 # spring-data-rest-hateoas
 
-[Getting Started with Spring Data Rest and HATEOAS] (http://qvv.7a9.myftpupload.com/2018/08/getting-started-with-spring-data-rest-and-hateoas/)
+[Getting Started with Spring Data Rest and HATEOAS] (http://techknowsurfer.com/2018/08/getting-started-with-spring-data-rest-and-hateoas/)
 
 To build the code please use the below comman
 
